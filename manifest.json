@@ -12,6 +12,12 @@
     "permissions": [
       "activeTab" 
     ],
+     "web_accessible_resources": [
+    {
+      "resources": ["*"],
+      "matches": ["https://your-github-username.github.io/your-repo-name/*"]
+    }
+  ],
     "background": {
       "service_worker": "background.js"  
     }
