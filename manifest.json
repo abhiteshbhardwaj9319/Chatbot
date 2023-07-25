@@ -15,7 +15,7 @@
      "web_accessible_resources": [
     {
       "resources": ["*"],
-      "matches": ["https://your-github-username.github.io/your-repo-name/*"]
+      "matches": ["https://github.com/abhiteshbhardwaj9319/Chatbot.git/*"]
     }
   ],
     "background": {
